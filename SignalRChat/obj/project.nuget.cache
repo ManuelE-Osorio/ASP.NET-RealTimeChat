@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "jEysUgFSHU7J4vnHa4rxN3WkFD4U/osIdURyw7u+9a8mesJMvUFLVtSi7R6n6M/I2opzs6//saJT4KcbiJFgGQ==",
+  "success": true,
+  "projectFilePath": "/home/sulaco/Desktop/Code/Projects/ASP.NET-RealTimeChat/SignalRChat/SignalRChat.csproj",
+  "expectedPackageFiles": [
+    "/home/sulaco/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.6/microsoft.aspnetcore.app.ref.8.0.6.nupkg.sha512"
+  ],
+  "logs": []
+}
